@@ -1,4 +1,4 @@
 # Advent-calender
-Advent calender, changing pictures every day/Java Script+HTML
+Advent calender, changing pictures every day/Java Script+HTML5
 
 Created for Helbling GmbH
